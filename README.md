@@ -35,3 +35,4 @@ git clone https://github.com/your-username/mealify.git
 cd mealify
 npm install
 npm run android
+or you can simply install it for android from /release app/release.apk
